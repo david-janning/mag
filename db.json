@@ -1,11 +1,226 @@
 {
-  "posts": [
+  "issues": [
     {
-      "id": 1,
-      "title": "hello"
+      "issue_id": 1704,
+      "title": "Winter 2017",
+      "image": "http://via.placeholder.com/768x850/ff0000/ffffff",
+      "categories": [1001,1002,1003],
+      "featured_articles": [170401,170402,170403,170404]
+    },
+    {
+      "issue_id": 1703,
+      "title": "Autumn 2017",
+      "image": "http://via.placeholder.com/768x850/ffff00/ffffff",
+      "categories": [1001,1004,1005],
+      "featured_articles": [170301,170302,170303,170304]
+    },
+    {
+      "issue_id": 1702,
+      "title": "Summer 2017",
+      "image": "http://via.placeholder.com/768x850/ff00ff/ffffff",
+      "categories": [1002,1003,1004,1005],
+      "featured_articles": [170201,170202,170203,170204]
+    },
+    {
+      "issue_id": 1701,
+      "title": "Spring 2017",
+      "image": "http://via.placeholder.com/768x850/ff00ff/ffffff",
+      "categories": [1001,1002,1003,1004],
+      "featured_articles": [170101,170102,170103,170104]
+    },
+    {
+      "issue_id": 1604,
+      "title": "Winter 2016",
+      "image": "http://via.placeholder.com/768x850/ff000f/ffffff",
+      "categories": [1001],
+      "featured_articles": [160401,160402,160403,160404]
+    }
+  ],
+  "categories": [
+    {
+      "cat_id": 1001,
+      "name": "Alfa"
+    },
+    {
+      "cat_id": 1002,
+      "name": "Bravo"
+    },
+    {
+      "cat_id": 1003,
+      "name": "Charlie"
+    },
+    {
+      "cat_id": 1004,
+      "name": "Delta"
+    },
+    {
+      "cat_id": 1005,
+      "name": "Foxtrot"
+    }
+  ],
+  "articles": [
+    {
+      "article_id": 170401,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170402,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Sed varius erat eget mauris tempus",
+      "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
+    },
+    {
+      "article_id": 170403,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Praesent cursus bibendum tempor.",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170404,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
+    },
+    {
+      "article_id": 170301,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170302,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Sed varius erat eget mauris tempus",
+      "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
+    },
+    {
+      "article_id": 170303,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Praesent cursus bibendum tempor.",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170304,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
+    },
+    {
+      "article_id": 170201,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170202,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Sed varius erat eget mauris tempus",
+      "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
+    },
+    {
+      "article_id": 170203,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Praesent cursus bibendum tempor.",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170204,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
+    },
+    {
+      "article_id": 170101,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170102,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Sed varius erat eget mauris tempus",
+      "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
+    },
+    {
+      "article_id": 170103,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Praesent cursus bibendum tempor.",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 170104,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
+    },
+    {
+      "article_id": 160401,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 160402,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Sed varius erat eget mauris tempus",
+      "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
+    },
+    {
+      "article_id": 160403,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Praesent cursus bibendum tempor.",
+      "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
+    },
+    {
+      "article_id": 160404,
+      "issue_id": 1704,
+      "cat_id": 1001,
+      "image": "http://via.placeholder.com/360x360/",
+      "title": "Mauris augue nisi, porta at convallis",
+      "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "mag"
   }
 }
