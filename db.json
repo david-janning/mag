@@ -1,12 +1,10 @@
 {
-  "issues": [
-    {
-      "settings": [
-        {
+  "issues": {
+      "settings": {
           "totalIssues": 5,
-          "perPage": 3
-        }
-      ],
+          "perPage": 3,
+          "template": "tmpl-articles"
+      },
       "contents": [
         {
           "issue_id": 1704,
@@ -49,8 +47,7 @@
           "featured_articles": [160401,160402,160403,160404]
         }
       ]
-    }
-  ],
+  },
   "categories": [
     {
       "cat_id": 1001,
