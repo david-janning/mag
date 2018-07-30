@@ -2,6 +2,7 @@
   "issues": [
     {
       "issue_id": 1704,
+      "permalink": "http://article.html",
       "title": "Winter 2017",
       "image": "http://via.placeholder.com/768x850/ff0000/ffffff",
       "categories": [1001,1002,1003],
@@ -9,6 +10,7 @@
     },
     {
       "issue_id": 1703,
+      "permalink": "http://article.html",
       "title": "Autumn 2017",
       "image": "http://via.placeholder.com/768x850/ffff00/ffffff",
       "categories": [1001,1004,1005],
@@ -16,6 +18,7 @@
     },
     {
       "issue_id": 1702,
+      "permalink": "http://article.html",
       "title": "Summer 2017",
       "image": "http://via.placeholder.com/768x850/ff00ff/ffffff",
       "categories": [1002,1003,1004,1005],
@@ -23,6 +26,7 @@
     },
     {
       "issue_id": 1701,
+      "permalink": "http://article.html",
       "title": "Spring 2017",
       "image": "http://via.placeholder.com/768x850/ff00ff/ffffff",
       "categories": [1001,1002,1003,1004],
@@ -30,6 +34,7 @@
     },
     {
       "issue_id": 1604,
+      "permalink": "http://article.html",
       "title": "Winter 2016",
       "image": "http://via.placeholder.com/768x850/ff000f/ffffff",
       "categories": [1001],
