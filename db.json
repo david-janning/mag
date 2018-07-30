@@ -61,6 +61,7 @@
   "articles": [
     {
       "article_id": 170401,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -69,6 +70,7 @@
     },
     {
       "article_id": 170402,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -77,6 +79,7 @@
     },
     {
       "article_id": 170403,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -85,6 +88,7 @@
     },
     {
       "article_id": 170404,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -93,6 +97,7 @@
     },
     {
       "article_id": 170301,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -101,6 +106,7 @@
     },
     {
       "article_id": 170302,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -109,6 +115,7 @@
     },
     {
       "article_id": 170303,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -117,6 +124,7 @@
     },
     {
       "article_id": 170304,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -125,6 +133,7 @@
     },
     {
       "article_id": 170201,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -133,6 +142,7 @@
     },
     {
       "article_id": 170202,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -141,6 +151,7 @@
     },
     {
       "article_id": 170203,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -149,6 +160,7 @@
     },
     {
       "article_id": 170204,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -157,6 +169,7 @@
     },
     {
       "article_id": 170101,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -165,6 +178,7 @@
     },
     {
       "article_id": 170102,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -173,6 +187,7 @@
     },
     {
       "article_id": 170103,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -181,6 +196,7 @@
     },
     {
       "article_id": 170104,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -189,6 +205,7 @@
     },
     {
       "article_id": 160401,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -197,6 +214,7 @@
     },
     {
       "article_id": 160402,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -205,6 +223,7 @@
     },
     {
       "article_id": 160403,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
@@ -213,6 +232,7 @@
     },
     {
       "article_id": 160404,
+      "permalink": "http://article.html",
       "issue_id": 1704,
       "cat_id": 1001,
       "image": "http://via.placeholder.com/360x360/",
