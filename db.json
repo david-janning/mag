@@ -5,8 +5,7 @@
           "perPage": 3,
           "template": "tmpl-articles",
           "target": "c-issues-target",
-          "more_button": "c-issues-more",
-          "logo_url": "img/logo-spektrum.svg"
+          "more_button": "c-issues-more"
       },
       "contents": [
         {
