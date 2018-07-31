@@ -3,7 +3,10 @@
       "settings": {
           "totalIssues": 5,
           "perPage": 3,
-          "template": "tmpl-articles"
+          "template": "tmpl-articles",
+          "target": "c-issues-target",
+          "more_button": "c-issues-more",
+          "logo_url": "img/logo-spektrum.svg"
       },
       "contents": [
         {
