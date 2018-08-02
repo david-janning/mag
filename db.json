@@ -47,6 +47,14 @@
           "image": "/placeholders/temp_issue_cover_winter_16.jpg",
           "categories": [1001],
           "featured_articles": [160401,160402,160403,160404]
+        },
+        {
+          "issue_id": 1603,
+          "permalink": "/category.html",
+          "title": "Winter 2017",
+          "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+          "categories": [1001,1002,1003],
+          "featured_articles": [170401,170402,170403,170404]
         }
       ]
   },
