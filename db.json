@@ -78,14 +78,6 @@
           "image": "/placeholders/temp_issue_cover_summer_17.jpg",
           "categories": [1002,1003,1004,1005],
           "featured_articles": [170201,170202,170203,170204]
-        },
-        {
-          "issue_id": 1503,
-          "permalink": "/category.html",
-          "title": "Autumn 2015",
-          "image": "/placeholders/temp_issue_cover_spring_17.jpg",
-          "categories": [1001,1002,1003,1004],
-          "featured_articles": [170101,170102,170103,170104]
         }
       ]
   },
