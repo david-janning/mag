@@ -1,8 +1,7 @@
 {
   "issues": {
       "settings": {
-          "totalIssues": 5,
-          "perPage": 3,
+          "perPage": 6,
           "template": "tmpl-articles",
           "target": "c-issues-target",
           "more_button": "c-issues-more"
@@ -52,6 +51,54 @@
           "issue_id": 1603,
           "permalink": "/category.html",
           "title": "Autumn 2016",
+          "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+          "categories": [1001,1002,1003],
+          "featured_articles": [170401,170402,170403,170404]
+        },
+        {
+          "issue_id": 1602,
+          "permalink": "/category.html",
+          "title": "Summer 2016",
+          "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+          "categories": [1001,1002,1003],
+          "featured_articles": [170401,170402,170403,170404]
+        },
+        {
+          "issue_id": 1601,
+          "permalink": "/category.html",
+          "title": "Spring 2016",
+          "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
+          "categories": [1001,1004,1005],
+          "featured_articles": [170301,170302,170303,170304]
+        },
+        {
+          "issue_id": 1504,
+          "permalink": "/category.html",
+          "title": "Winter 2015",
+          "image": "/placeholders/temp_issue_cover_summer_17.jpg",
+          "categories": [1002,1003,1004,1005],
+          "featured_articles": [170201,170202,170203,170204]
+        },
+        {
+          "issue_id": 1503,
+          "permalink": "/category.html",
+          "title": "Autumn 2015",
+          "image": "/placeholders/temp_issue_cover_spring_17.jpg",
+          "categories": [1001,1002,1003,1004],
+          "featured_articles": [170101,170102,170103,170104]
+        },
+        {
+          "issue_id": 1502,
+          "permalink": "/category.html",
+          "title": "Summer 2015",
+          "image": "/placeholders/temp_issue_cover_winter_16.jpg",
+          "categories": [1001],
+          "featured_articles": [160401,160402,160403,160404]
+        },
+        {
+          "issue_id": 1501,
+          "permalink": "/category.html",
+          "title": "Spring 2015",
           "image": "/placeholders/temp_issue_cover_winter_17.jpg",
           "categories": [1001,1002,1003],
           "featured_articles": [170401,170402,170403,170404]
