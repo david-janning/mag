@@ -2,6 +2,8 @@
   "issues": {
       "settings": {
           "perPage": 6,
+          "totalIssues": 9,
+          "totalArticles": 20,
           "template": "tmpl-articles",
           "target": "c-issues-target",
           "more_button": "c-issues-more"
