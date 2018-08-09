@@ -20,6 +20,7 @@
         {
           "issue_id": 1703,
           "permalink": "/category.html?issue_id=1703",
+          "pdf": "/issue1703.pdf",
           "title": "Autumn 2017",
           "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
           "categories": [1001,1004,1005],
@@ -28,6 +29,7 @@
         {
           "issue_id": 1702,
           "permalink": "category.html?issue_id=1702",
+          "pdf": "/issue1702.pdf",
           "title": "Summer 2017",
           "image": "/placeholders/temp_issue_cover_summer_17.jpg",
           "categories": [1002,1003,1004,1005],
@@ -36,6 +38,7 @@
         {
           "issue_id": 1701,
           "permalink": "category.html?issue_id=1701",
+          "pdf": "/issue1701.pdf",
           "title": "Spring 2017",
           "image": "/placeholders/temp_issue_cover_spring_17.jpg",
           "categories": [1001,1002,1003,1004],
@@ -44,6 +47,7 @@
         {
           "issue_id": 1604,
           "permalink": "category.html?issue_id=1604",
+          "pdf": "/issue1604.pdf",
           "title": "Winter 2016",
           "image": "/placeholders/temp_issue_cover_winter_16.jpg",
           "categories": [1001],
@@ -52,6 +56,7 @@
         {
           "issue_id": 1603,
           "permalink": "category.html?issue_id=1603",
+          "pdf": "/issue1603.pdf",
           "title": "Autumn 2016",
           "image": "/placeholders/temp_issue_cover_winter_17.jpg",
           "categories": [1001,1002,1003],
@@ -60,6 +65,7 @@
         {
           "issue_id": 1602,
           "permalink": "category.html?issue_id=1602",
+          "pdf": "/issue1602.pdf",
           "title": "Summer 2016",
           "image": "/placeholders/temp_issue_cover_winter_17.jpg",
           "categories": [1001,1002,1003],
@@ -68,6 +74,7 @@
         {
           "issue_id": 1601,
           "permalink": "category.html?issue_id=1601",
+          "pdf": "/issue1601.pdf",
           "title": "Spring 2016",
           "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
           "categories": [1001,1004,1005],
@@ -76,6 +83,7 @@
         {
           "issue_id": 1504,
           "permalink": "category.html?issue_id=1504",
+          "pdf": "/issue1504.pdf",
           "title": "Winter 2015",
           "image": "/placeholders/temp_issue_cover_summer_17.jpg",
           "categories": [1002,1003,1004,1005],
