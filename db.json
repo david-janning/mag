@@ -119,7 +119,7 @@
       "article_id": 170402,
       "permalink": "/article.html",
       "issue_id": 1704,
-      "cat_id": 1001,
+      "cat_id": 1002,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
@@ -128,7 +128,7 @@
       "article_id": 170403,
       "permalink": "/article.html",
       "issue_id": 1704,
-      "cat_id": 1001,
+      "cat_id": 1003,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Praesent cursus bibendum tempor.",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
@@ -146,7 +146,7 @@
       "article_id": 170301,
       "permalink": "/article.html",
       "issue_id": 1703,
-      "cat_id": 1001,
+      "cat_id": 1004,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
@@ -155,7 +155,7 @@
       "article_id": 170302,
       "permalink": "/article.html",
       "issue_id": 1703,
-      "cat_id": 1001,
+      "cat_id": 1005,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
@@ -173,7 +173,7 @@
       "article_id": 170304,
       "permalink": "/article.html",
       "issue_id": 1703,
-      "cat_id": 1001,
+      "cat_id": 1002,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
@@ -182,7 +182,7 @@
       "article_id": 170201,
       "permalink": "/article.html",
       "issue_id": 1702,
-      "cat_id": 1001,
+      "cat_id": 1002,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
@@ -209,7 +209,7 @@
       "article_id": 170204,
       "permalink": "/article.html",
       "issue_id": 1702,
-      "cat_id": 1001,
+      "cat_id": 1003,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
@@ -218,7 +218,7 @@
       "article_id": 170101,
       "permalink": "/article.html",
       "issue_id": 1701,
-      "cat_id": 1001,
+      "cat_id": 1003,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
@@ -236,7 +236,7 @@
       "article_id": 170103,
       "permalink": "/article.html",
       "issue_id": 1701,
-      "cat_id": 1001,
+      "cat_id": 1003,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Praesent cursus bibendum tempor.",
       "summary": "Vestibulum elementum lacus ac pulvinar suscipit. Curabitur sed massa a metus congue tristique."
@@ -245,7 +245,7 @@
       "article_id": 170104,
       "permalink": "/article.html",
       "issue_id": 1701,
-      "cat_id": 1001,
+      "cat_id": 1005,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Mauris augue nisi, porta at convallis",
       "summary": "Donec ultrices mattis auctor. Nulla vitae nisi semper, luctus mauris vitae, dapibus nibh."
@@ -263,7 +263,7 @@
       "article_id": 160402,
       "permalink": "/article.html",
       "issue_id": 1604,
-      "cat_id": 1001,
+      "cat_id": 1005,
       "image": "http://via.placeholder.com/360x360/",
       "title": "Sed varius erat eget mauris tempus",
       "summary": "Nam venenatis ligula eros, et luctus ex iaculis ac."
