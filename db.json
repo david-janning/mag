@@ -7,7 +7,7 @@
           "template": "tmpl-articles",
           "target": "c-issues-target",
           "more_button": "c-issues-more",
-          "articlesPerPage" : 10,
+          "articlesPerPage" : 4,
           "articlesAllIssuesText": "All Issues",
           "articlesAllCatText": "All Categories",
           "articlesSearchFieldText": "Search...",
