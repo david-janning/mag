@@ -9,14 +9,14 @@
           "more_button": "c-issues-more",
           "articlesPerPage" : 7,
           "labels" : {
-              "articlesAllIssues": "All Issues",
-              "articlesAllCat": "All Categories",
-              "articlesSearch": "Search...",
-              "issueDownload": "Download PDF",
-              "articleSingle": "article",
-              "articlePlural": "articles",
-              "articlesOf": "of",
-              "articlesNotFound": "No articles found"
+              "articlesAllIssues": "jAll Issues",
+              "articlesAllCat": "jAll Categories",
+              "articlesSearch": "jSearch...",
+              "issueDownload": "jDownload PDF",
+              "articleSingle": "jarticle",
+              "articlePlural": "jarticles",
+              "articlesOf": "jof",
+              "articlesNotFound": "jNo articles found"
           }
       },
       "contents": [
