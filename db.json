@@ -11,7 +11,6 @@
           "labels" : {
               "articlesAllIssues": "jAll Issues",
               "articlesAllCat": "jAll Categories",
-              "articlesSearch": "jSearch...",
               "issueDownload": "jDownload PDF",
               "articleSingle": "jarticle",
               "articlePlural": "jarticles",
