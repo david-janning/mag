@@ -12,7 +12,11 @@
               "articlesAllIssues": "All Issues",
               "articlesAllCat": "All Categories",
               "articlesSearch": "Search...",
-              "issueDownload": "Download PDF"
+              "issueDownload": "Download PDF",
+              "articleSingle": "article",
+              "articlePlural": "articles",
+              "articlesOf": "of",
+              "articlesNotFound": "No articles found"
           }
       },
       "contents": [
