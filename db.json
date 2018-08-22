@@ -8,10 +8,13 @@
           "target": "c-issues-target",
           "more_button": "c-issues-more",
           "articlesPerPage" : 7,
-          "articlesAllIssuesText": "All Issues",
-          "articlesAllCatText": "All Categories",
-          "articlesSearchFieldText": "Search...",
-          "issueDownloadText": "Download PDF"
+          "labels" : {
+              "articlesAllIssues": "All Issues",
+              "articlesAllCat": "All Categories",
+              "articlesSearch": "Search...",
+              "issueDownload": "Download PDF"
+          },
+
       },
       "contents": [
         {
