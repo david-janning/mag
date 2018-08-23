@@ -9,13 +9,13 @@
           "more_button": "c-issues-more",
           "articlesPerPage" : 7,
           "labels" : {
-              "articlesAllIssues": "jAll Issues",
-              "articlesAllCat": "jAll Categories",
-              "issueDownload": "jDownload PDF",
-              "articleSingle": "jarticle",
-              "articlePlural": "jarticles",
-              "articlesOf": "jof",
-              "articlesNotFound": "jNo articles found"
+              "articlesAllIssues": "All Issues",
+              "articlesAllCat": "All Categories",
+              "issueDownload": "Download PDF",
+              "articleSingle": "article",
+              "articlePlural": "articles",
+              "articlesOf": "of",
+              "articlesNotFound": "No articles found"
           }
       },
       "contents": [
