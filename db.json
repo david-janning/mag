@@ -25,6 +25,7 @@
           "pdf": "/issue1704.pdf",
           "title": "Winter 2017",
           "image": "/placeholders/temp_issue_cover_winter_17.jpg",
+          "logo_override": "/logo-override/IN-KOLN-WHITE.svg",
           "categories": [1001,1002,1003],
           "featured_articles": [170401,170402,170403,170404]
         },
@@ -34,6 +35,7 @@
           "pdf": "/issue1703.pdf",
           "title": "Autumn 2017",
           "image": "/placeholders/temp_issue_cover_autumn_17.jpg",
+          "logo_override": "/logo-override/IN-KOLN-WHITE.svg",
           "categories": [1001,1004,1005],
           "featured_articles": [170301,170302,170303,170304]
         },
